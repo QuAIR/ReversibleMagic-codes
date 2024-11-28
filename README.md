@@ -11,7 +11,7 @@ Figure 2 shows the numerical experiments for the physical implementability of ma
 \ket{\mathbb{S}} &= (\ket{1} - \ket{2})/\sqrt{2} \\
 \ket{\mathbb{N}} &= (-\ket{0} + 2\ket{1} - \ket{2})/\sqrt{6} \\
 \ket{\mathbb{T}} &= (e^{2\pi i / 9}\ket{0} + \ket{1} + e^{-2\pi i / 9}\ket{2})/\sqrt{3} \\
-\ket{\mathbb{H}} &\textrm{ is the eigenstate of } \operatorname{QFT}_3 \textrm{ w.r.t. eigenvalue} +\!1
+\ket{\mathbb{H}} &\textrm{ is the eigenstate of } \textrm{QFT}_3 \textrm{ w.r.t. eigenvalue} +\!1
 \end{align*}
 ```
 
